@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õÍÜ¸8ÛØÂüŒ2J$9ba395a5-91db-4ef8-95f8-31012ed281b5
+	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ë›Ìé8ÂùÄüŒ2J$fb9e5d46-0c6a-4a58-8830-0776711eb9cb
+	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(‚±À8âØÂüŒ2J$f06864b5-aa75-4e5d-8106-bf8f30f3ee9d
+	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(›áÈÔ8âØÂüŒ2J$7c120e98-7313-4092-af50-b58e6131171b
+	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(´ÄËê8âØÂüŒ2J$08d0a15f-a48d-4eb7-97a7-9e3142d0ab47
+“	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(äà³µùÿÿÿÿ8âØÂüŒ2J$90a8bcaa-b409-41d2-8f5d-8ec1613b4f38
+r	java:S106"+Replace this use of System.out by a logger.(¿¹Ûûÿÿÿÿ8ãØÂüŒ2J$c19e649f-9f75-4f80-972d-c5576a142fe2
+r	java:S106"+Replace this use of System.out by a logger.(‰¡÷‡úÿÿÿÿ8ãØÂüŒ2J$4845a246-a368-4b52-bbe6-680279efcffb
+m	java:S106"+Replace this use of System.out by a logger.(´‹ùŸ8ãØÂüŒ2J$194f4553-dac8-4a91-a8fb-9fc0e40daffc
+r	java:S106"+Replace this use of System.out by a logger.(—Ìˆ…ûÿÿÿÿ8ãØÂüŒ2J$f0488de2-5b72-43f6-b23f-4b1183f45860
+l	java:S106"+Replace this use of System.out by a logger.(ñş‚T8ãØÂüŒ2J$6b99cd64-f33b-40d0-a029-fe757a8b85cb
+m	java:S106"+Replace this use of System.out by a logger.(ù¢•ä8–õÅüŒ2J$50fa8297-fb84-4f10-825c-3d9fbcc0a243

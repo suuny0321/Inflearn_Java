@@ -1,0 +1,58 @@
+
+z
+java:S2589"7Remove this expression which always evaluates to "true"(¾†¬ñ8ĞƒšøŒ2J$8a2928a9-fbc9-4214-948c-b260d3441128
+z
+java:S2589"7Remove this expression which always evaluates to "true"(¡¿Öƒ8şšøŒ2J$9e11cd3a-99c6-4f90-9a92-8ce5c094a407
+z
+java:S2589"7Remove this expression which always evaluates to "true"(úÙİ8åı–øŒ2J$8854fc7d-a206-45ef-ab5e-b14016894b4e
+
+java:S2589"7Remove this expression which always evaluates to "true"(À’¬şÿÿÿÿ8çı–øŒ2J$067955ad-d564-442f-bf05-80cc3b3816d4
+
+java:S2589"7Remove this expression which always evaluates to "true"(ÚÇ×ûÿÿÿÿ8æı–øŒ2J$29f308f7-0ebb-4fed-a1f9-bd31b45f6a89
+€
+java:S2589"8Remove this expression which always evaluates to "false"(ù‹Ãüÿÿÿÿ8äı–øŒ2J$752aab2c-5595-4378-8ce9-3901e1a0ad04
+{
+java:S2589"8Remove this expression which always evaluates to "false"(šÆ˜È8åı–øŒ2J$770baac1-d251-4a65-ad37-e44f446abc1c
+
+java:S2589"7Remove this expression which always evaluates to "true"(Æş‚øúÿÿÿÿ8åı–øŒ2J$ba36fa8a-7bca-4ed4-b5d7-5cfdcbef779e
+m	java:S106"+Replace this use of System.out by a logger.(ş’¬´8²„ŒøŒ2J$4658f103-e021-4dd1-ae4d-c558ab081bb5
+r	java:S106"+Replace this use of System.out by a logger.(Æş‚øúÿÿÿÿ8µ“øŒ2J$4b107553-6cf6-4de1-995f-eba467794369
+p
+java:S1125"(Remove the unnecessary boolean literals.(Æş‚øúÿÿÿÿ8µ“øŒ2J$ee44d4e0-0885-41d3-93da-6f254ee4baab
+“
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "&&"(Æş‚øúÿÿÿÿ8·“øŒ2J$02a40895-b596-4dcc-ac6c-50cb4262ed09
+r	java:S106"+Replace this use of System.out by a logger.(ÚÇ×ûÿÿÿÿ8È‘øŒ2J$808884ca-94d4-4e6a-b5a6-9872cea87e26
+p
+java:S1125"(Remove the unnecessary boolean literals.(ÚÇ×ûÿÿÿÿ8É‘øŒ2J$2ee9c5e6-70c9-46b7-a8e1-03dad1d1d9ab
+r	java:S106"+Replace this use of System.out by a logger.(ù‹Ãüÿÿÿÿ8ÎÕ’øŒ2J$89cf4a0b-8a87-4e09-a5b8-29cfabf31b04
+p
+java:S1125"(Remove the unnecessary boolean literals.(ù‹Ãüÿÿÿÿ8´‘øŒ2J$0d27980a-36cf-430a-990d-b2f62f38e9b4
+“
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ù‹Ãüÿÿÿÿ8ÎÕ’øŒ2J$91308e64-ca8f-4618-a66b-a51ab8d12ee2
+m	java:S106
+"+Replace this use of System.out by a logger.(·ƒŠé8Èğ’øŒ2J$3d629011-62ea-4b12-b29c-41d5bab1ae9e
+r	java:S106"+Replace this use of System.out by a logger.(À’¬şÿÿÿÿ8£š”øŒ2J$35bf0b97-ff37-4ea4-b9a5-abe11b3e6f96
+p
+java:S1125"(Remove the unnecessary boolean literals.(À’¬şÿÿÿÿ8£š”øŒ2J$f97f614b-ad5c-4cdb-b2f2-01cd84236633
+“
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(À’¬şÿÿÿÿ8£š”øŒ2J$35ccc5c9-8b27-4ba4-87ce-569090785030
+m	java:S106"+Replace this use of System.out by a logger.(úÙİ8£š”øŒ2J$c611f25e-ed71-404c-b096-65ab3b70ca8c
+k
+java:S1125"(Remove the unnecessary boolean literals.(úÙİ8£š”øŒ2J$d663d5e4-2a4f-4c4d-bfc6-612adf516ce9
+m	java:S106"+Replace this use of System.out by a logger.(šÆ˜È8£š”øŒ2J$bf149cf2-aaa9-4700-8d36-5707aa73a33c
+k
+java:S1125"(Remove the unnecessary boolean literals.(šÆ˜È8¥š”øŒ2J$15fc1172-1041-4229-979e-b443020382b8
+
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(šÆ˜È8¥š”øŒ2J$6dbb0be6-2d94-4eef-818a-cf21e0ac80b2
+r	java:S106"+Replace this use of System.out by a logger.(Ÿáßœşÿÿÿÿ8á”–øŒ2J$43a81130-f131-4beb-a38f-681a076775fd
+m	java:S106"+Replace this use of System.out by a logger.(—Øì8á”–øŒ2J$60c57606-8e4d-4d03-add5-c00c1fcb1c23
+j
+java:S1125"'Remove the unnecessary boolean literal.(—Øì8êı–øŒ2J$6a898b98-c9f7-477d-ab11-38625fa010ad
+m	java:S106"+Replace this use of System.out by a logger.(°«âË8ëı–øŒ2J$67f85ca0-d56c-4672-b2e5-2f1d38580f87
+j
+java:S1125"'Remove the unnecessary boolean literal.(°«âË8ëı–øŒ2J$095cebc7-16e7-4f63-8b4a-27a8ce4dcea9
+r	java:S106"+Replace this use of System.out by a logger.(÷«Öùÿÿÿÿ8é’™øŒ2J$13168700-05e2-4e82-89ef-e7810647b3ae
+m	java:S106"+Replace this use of System.out by a logger.(¾†¬ñ8´å™øŒ2J$4de1244b-20bd-4b62-bfcd-f7e1796cf4f2
+m	java:S106"+Replace this use of System.out by a logger.(¡¿Öƒ8—şšøŒ2J$b196fb5e-4a22-432c-8027-1b353442b6c0
+G	java:S106"+Replace this use of System.out by a logger.(æ½³Ê8ÓœøŒ2
+G	java:S106"+Replace this use of System.out by a logger.(“©š¯8ÔœøŒ2
